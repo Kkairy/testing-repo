@@ -1,8 +1,16 @@
+body {
+    min-height: 100vh;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 h1 {
-    font-size: 35px;
+    font-size: 45px;
     width: fit-content;
     padding: 15px 20px;
-    margin: 20px auto;
+    margin: 0px;
     text-align: center;
     background-color: #eee;
 }
